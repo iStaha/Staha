@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/Staha/</loc>
+    <loc>https://istaha.github.io/Staha/</loc>
     <lastmod>2018-03-15T22:18:14+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/Staha/contact/</loc>
+    <loc>https://istaha.github.io/Staha/contact/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/Staha/posts/thegreatbeyond/</loc>
+    <loc>https://istaha.github.io/Staha/posts/thegreatbeyond/</loc>
     <lastmod>2018-03-15T22:18:14+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/Staha/authors/</loc>
+    <loc>https://istaha.github.io/Staha/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/Staha/categories/</loc>
+    <loc>https://istaha.github.io/Staha/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/Staha/categories/general/</loc>
-    <lastmod>2018-03-15T22:18:14+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/Staha/tags/life/</loc>
+    <loc>https://istaha.github.io/Staha/categories/general/</loc>
     <lastmod>2018-03-15T22:18:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/Staha/posts/</loc>
+    <loc>https://istaha.github.io/Staha/tags/life/</loc>
     <lastmod>2018-03-15T22:18:14+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/Staha/tags/</loc>
+    <loc>https://istaha.github.io/Staha/posts/</loc>
+    <lastmod>2018-03-15T22:18:14+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://istaha.github.io/Staha/tags/</loc>
     <lastmod>2018-03-15T22:18:14+05:30</lastmod>
     <priority>0</priority>
   </url>

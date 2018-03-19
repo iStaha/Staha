@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Taha Latief</title>
-    <link>https://github.com/Staha/categories/</link>
+    <link>https://istaha.github.io/Staha/categories/</link>
     <description>Recent content in Categories on Taha Latief</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://github.com/Staha/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://istaha.github.io/Staha/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>General</title>
-      <link>https://github.com/Staha/categories/general/</link>
+      <link>https://istaha.github.io/Staha/categories/general/</link>
       <pubDate>Thu, 15 Mar 2018 22:18:14 +0530</pubDate>
       
-      <guid>https://github.com/Staha/categories/general/</guid>
+      <guid>https://istaha.github.io/Staha/categories/general/</guid>
       <description></description>
     </item>
     
